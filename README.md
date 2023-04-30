@@ -1,2 +1,1 @@
-# ts-project
-ts project
+# Energy-Resources-Analytics-
